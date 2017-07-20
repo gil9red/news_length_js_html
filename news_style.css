@@ -1,0 +1,16 @@
+body {
+    height: 200px;
+    width: 500px;
+}
+#newsblock {
+    background-color: rgba(253,245, 230, 0.7);
+}
+.lightgray {
+    color: lightgray;
+}
+.gray {
+    color: gray;
+}
+.black {
+    color: black;
+}
